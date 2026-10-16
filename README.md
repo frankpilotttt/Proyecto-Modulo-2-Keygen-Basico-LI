@@ -29,5 +29,7 @@ golink /console /entry main keygen.obj kernel32.dll
 5. **Convierte a hexadecimal.** Toma el valor final y lo pasa a texto en 16 dígitos hexadecimales. Va sacando de 4 en 4 bits, y cada grupo lo convierte al caracter `0-9` o `A-F` que le toca. Los dígitos que sobran a la izquierda quedan en ceros.
 6. **Muestra la clave.** Imprime el resultado en pantalla y el programa termina.
 
-<img width="1856" height="993" alt="Captura de pantalla 2026-10-15 202452" src="https://github.com/user-attachments/assets/5929a35a-20ca-4805-b52f-d1dfb844431a" />
+<img width="844" height="253" alt="image" src="https://github.com/user-attachments/assets/313a46b9-5164-4779-b5c7-71d9d460fa0e" />
+
+
 
